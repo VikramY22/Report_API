@@ -1,0 +1,55 @@
+{
+    "completedAt": "2025-07-15T22:08:12.217988Z",
+    "currentIntake": [
+        {
+            "name": "Железо",
+            "unit": "мг",
+            "norm": 18,
+            "foodIntake": 10,
+            "supplementIntake": 0
+        },
+        {
+            "name": "Витамин C",
+            "unit": "мг",
+            "norm": 90,
+            "foodIntake": 60,
+            "supplementIntake": 0
+        }
+    ],
+    "adjustedIntake": [
+        {
+            "name": "Железо",
+            "unit": "мг",
+            "norm": 18,
+            "foodIntake": 10,
+            "supplementIntake": 0
+        },
+        {
+            "name": "Витамин C",
+            "unit": "мг",
+            "norm": 90,
+            "foodIntake": 60,
+            "supplementIntake": 0
+        }
+    ],
+    "personalizedSupplements": [
+        {
+            "name": "Мультивитамины A-Z",
+            "description": "Комплекс витаминов и минералов",
+            "imageUrls": [
+                "https://example.com/image1.jpg",
+                "https://example.com/image2.jpg",
+                "https://example.com/image3.jpg"
+            ],
+            "purchaseLink": "https://example.com/buy"
+        }
+    ],
+    "supplementBenefits": [
+        "Устраняют витаминно-минеральный дефицит",
+        "Улучшают усвоение полезных веществ из пищи",
+        "Компенсируют несбалансированное питание",
+        "Обеспечивают организм жизненно-важными элементами",
+        "Повышают функциональные резервы организма"
+    ],
+    "groupPurchaseLink": "https://example.com/buy-all"
+}
